@@ -4,4 +4,4 @@ A simple React + Redux app
 
 Run `npm install` to install dependencies. 
 
-Run `npm start` and open <localhost:7770> in your browser.
+Run `npm start` and open <localhost:3000> in your browser.
